@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Msgclientes</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="cargar_xml_sax" translatable="false">Cargar Clientes/Enviar SMS</string>
+</resources>
